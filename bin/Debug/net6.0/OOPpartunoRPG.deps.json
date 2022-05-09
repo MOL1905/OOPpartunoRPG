@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOPpartunoRPG/1.0.0": {
+        "runtime": {
+          "OOPpartunoRPG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPpartunoRPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

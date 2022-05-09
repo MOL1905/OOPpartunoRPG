@@ -1,0 +1,15 @@
+C:\Users\marti\source\repos\OOPpartunoRPG\bin\Debug\net6.0\OOPpartunoRPG.exe
+C:\Users\marti\source\repos\OOPpartunoRPG\bin\Debug\net6.0\OOPpartunoRPG.deps.json
+C:\Users\marti\source\repos\OOPpartunoRPG\bin\Debug\net6.0\OOPpartunoRPG.runtimeconfig.json
+C:\Users\marti\source\repos\OOPpartunoRPG\bin\Debug\net6.0\OOPpartunoRPG.dll
+C:\Users\marti\source\repos\OOPpartunoRPG\bin\Debug\net6.0\OOPpartunoRPG.pdb
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\OOPpartunoRPG.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\OOPpartunoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\OOPpartunoRPG.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\OOPpartunoRPG.AssemblyInfo.cs
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\OOPpartunoRPG.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\OOPpartunoRPG.dll
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\refint\OOPpartunoRPG.dll
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\OOPpartunoRPG.pdb
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\OOPpartunoRPG.genruntimeconfig.cache
+C:\Users\marti\source\repos\OOPpartunoRPG\obj\Debug\net6.0\ref\OOPpartunoRPG.dll
